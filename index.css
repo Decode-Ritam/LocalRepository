@@ -1,0 +1,10 @@
+* {}
+
+h1 {
+    text-align: center;
+    width: 38rem;
+    background: #8294d1;
+    padding: 12px;
+    margin: 12px auto;
+    border-radius: 8px;
+}
