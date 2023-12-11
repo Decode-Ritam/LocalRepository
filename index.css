@@ -1,10 +1,15 @@
-* {}
+ h1 {
+     text-align: center;
+     width: 38rem;
+     background: #8294d1;
+     padding: 12px;
+     margin: 12px auto;
+     border-radius: 8px;
+ }
 
-h1 {
-    text-align: center;
-    width: 38rem;
-    background: #8294d1;
-    padding: 12px;
-    margin: 12px auto;
-    border-radius: 8px;
-}
+ p {
+     text-align: center;
+     width: 900px;
+     margin: 2px auto;
+     font-size: 23px;
+ }
